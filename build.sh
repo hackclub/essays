@@ -12,4 +12,13 @@ echo "🔨 Building Jekyll site..."
 bundle exec jekyll build
 
 echo "✅ Build completed successfully!"
-echo "📁 Site built in _site/ directory" 
+echo "📁 Site built in _site/ directory"
+
+# Create a simple server script for static hosting
+cat > serve.sh << 'EOF'
+#!/bin/bash
+cd _site
+python3 -m http.server ${PORT:-4000}
+EOF
+
+chmod +x serve.sh 

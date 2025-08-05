@@ -1,9 +1,12 @@
 {
   "name": "jekyll-essays",
   "type": "application",
-  "buildPack": "nixpacks",
+  "buildPack": "static",
   "port": 4000,
   "branch": "main",
+  "buildCommand": "./build.sh",
+  "startCommand": "./serve.sh",
+  "outputDirectory": "_site",
   "environment": {
     "JEKYLL_ENV": "production",
     "NODE_ENV": "production"
