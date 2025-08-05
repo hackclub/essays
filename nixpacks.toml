@@ -1,0 +1,14 @@
+[phases.setup]
+nixPkgs = ["ruby", "bundler"]
+
+[phases.install]
+cmds = [
+  "gem install bundler -v 2.4.22",
+  "bundle install"
+]
+
+[phases.build]
+cmds = ["bundle exec jekyll build"]
+
+[start]
+cmd = "bundle exec jekyll serve --host 0.0.0.0 --port $PORT" 

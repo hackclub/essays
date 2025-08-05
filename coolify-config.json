@@ -1,10 +1,9 @@
 {
   "name": "jekyll-essays",
   "type": "application",
-  "buildPack": "docker",
-  "port": 80,
+  "buildPack": "nixpacks",
+  "port": 4000,
   "branch": "main",
-  "dockerfile": "Dockerfile",
   "environment": {
     "JEKYLL_ENV": "production",
     "NODE_ENV": "production"
