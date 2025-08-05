@@ -1,0 +1,11 @@
+[phases.setup]
+nixPkgs = ["ruby", "bundler"]
+
+[phases.install]
+cmds = ["bundle install"]
+
+[phases.build]
+cmds = ["bundle exec jekyll build"]
+
+[start]
+cmd = "cd _site && python3 -m http.server $PORT" 
