@@ -4,6 +4,7 @@ nixPkgs = ["ruby", "bundler"]
 [phases.install]
 cmds = [
   "gem install bundler -v 2.4.22",
+  "bundle config set --local path 'vendor/bundle'",
   "bundle install"
 ]
 
