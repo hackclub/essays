@@ -1,0 +1,32 @@
+---
+layout: default
+title: Home
+---
+
+<div class="essays-list">
+    {% assign sorted_essays = site.essays | sort: 'date' | reverse %}
+    {% for essay in sorted_essays %}
+    <article class="essay-preview">
+        <h3 class="essay-title">
+            <a href="{{ essay.url }}">{{ essay.title }}</a>
+        </h3>
+        {% if essay.author %}
+        <p class="essay-author">By {{ essay.author }}</p>
+        {% endif %}
+        {% if essay.date %}
+        <time class="essay-date" datetime="{{ essay.date | date_to_xmlschema }}">
+            {{ essay.date | date: "%B %d, %Y" }}
+        </time>
+        {% endif %}
+        {% if essay.excerpt %}
+        <div class="essay-excerpt">
+            {{ essay.excerpt }}
+        </div>
+        {% endif %}
+    </article>
+    {% endfor %}
+    
+    {% if sorted_essays.size == 0 %}
+    <p>No essays published yet. Check back soon!</p>
+    {% endif %}
+</div> 

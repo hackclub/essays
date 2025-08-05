@@ -1,0 +1,20 @@
+{
+  "name": "jekyll-essays",
+  "type": "application",
+  "buildPack": "docker",
+  "port": 80,
+  "branch": "main",
+  "dockerfile": "Dockerfile",
+  "environment": {
+    "JEKYLL_ENV": "production",
+    "NODE_ENV": "production"
+  },
+  "healthCheck": {
+    "path": "/",
+    "interval": 30,
+    "timeout": 10,
+    "retries": 3
+  },
+  "autoDeploy": true,
+  "exposePort": true
+} 
