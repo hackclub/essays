@@ -28,6 +28,11 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
 
+# Feed settings
+feed:
+  collections:
+    - essays
+
 # Exclude from processing
 exclude:
   - Gemfile
