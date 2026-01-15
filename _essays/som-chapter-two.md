@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The Summer of Making (Chapter One)"
+title: "The Summer of Making (Chapter Two)"
 author: "Chris Walker"
 date: 2025-08-11
 excerpt: "Everyone knows a ghost is no match for a dinosaur in a fight."
