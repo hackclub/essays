@@ -1,3 +1,11 @@
+---
+layout: post
+title: "The Summer of Making (Chapter One)"
+author: "Chris Walker"
+date: 2025-06-16
+excerpt: "Captain Trashbeard was starting to get sick of the ocean. Literally, sick."
+---
+
 # THE SUMMER of MAKING — *Chapter Numero Uno*
 
 Captain Trashbeard was starting to get sick of the ocean. Literally, sick. They say you get your sea legs with time, but it takes a lot longer when you have four of them… and so she laid splattered across her bed in the captain’s quarters, bouncing violently as *Le Dumpstairè II* cut through steep swells like a ninety-ton timber-hulled schooner through butter. These rough seas were making her queasy and miserable, though her regular diet of literal garbage was also surely not helping.

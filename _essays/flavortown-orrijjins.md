@@ -1,4 +1,15 @@
-# Flavortown Orrijjins
+---
+layout: post
+title: "Flavortown: Orrijjins"
+author: "Chris Walker"
+date: 2026-01-14
+excerpt: "Orpheus watched with idle fascination as her second-favorite butterfly alighted upon the edge of the backyard birdbath, removed its wings, and squeegeed them off with a gentle, practiced motion."
+---
+
+*Originally written to announce the beginning of [Flavortown](https://flavortown.hackclub.com/), our fourth "Universal You-Ship-We-Ship" program which ran during the summer of 2025.*
+
+# Flavortown: Orrijjins
+
 Orpheus watched with idle fascination as her second-favorite butterfly alighted upon the edge of the backyard birdbath, removed its wings, and squeegeed them off with a gentle, practiced motion. It had been about seven full moons since she and Heidi first arrived upon Dummp—a name they had chosen to honor their beached vessel, *Le Dumpstairè II*—and the swashbuckling tomb-raiding ghost-tickling excitement of the first few months had since given way to a slower, more intentional phase of life. Sure, they still milked the occasional ghost when certain critical supplies ran low, but once Heidi realized that you can grow garbage *straight from the ground* if you have the right seeds… well, let’s just say that’s a pretty compelling argument for a raccoon to shift her focus to gardening. The tricky part was figuring out which part of each of her favorite things needed to be buried for it to grow and reproduce, a problem that kept her plenty occupied most days. She hadn’t yet managed to get the walkie-talkies to sprout, but her banana peel plants were coming along *marvelously!*
 
 Heidi had just about finished raking the soil back over a pile of freshly-planted trout bones when a friendly-looking wigglebutt appeared from the west with an envelope in its mouth, which it dutifully dropped outside the front gate. “Telegram!” declared the wigglebutt as it waited patiently for a pat on the head from its neighbor, turning to wiggle its butt home to the Wigglebutt Woods once received. Heidi opened the envelope and began to read, squinting and mouthing each word as she silently sounded them out. Her pointy little claws tightened around the paper. Her eyes widened, and then bulged outward slightly from her skull. Her jaw went slack, then yo-yoed up and down, producing no noise at all until three syllables managed to clamor their way up from the back of her throat, escaping as an excited—nay, *ecstatic*—yelp: **“OOORPHEUUUS!!!!”**
