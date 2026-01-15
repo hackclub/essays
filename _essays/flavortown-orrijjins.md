@@ -6,7 +6,7 @@ date: 2026-01-14
 excerpt: "Orpheus watched with idle fascination as her second-favorite butterfly alighted upon the edge of the backyard birdbath, removed its wings, and squeegeed them off with a gentle, practiced motion."
 ---
 
-*Originally written to announce the beginning of [Flavortown](https://flavortown.hackclub.com/), our fourth "Universal You-Ship-We-Ship" program which ran during the summer of 2025.*
+*Originally written to announce the beginning of [Flavortown](https://flavortown.hackclub.com/), our fourth "Universal You-Ship-We-Ship" program which began in the winter of 2025/2026.*
 
 # Flavortown: Orrijjins
 
