@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "What We Ship"
+title: "Why We Ship"
 author: "Chris Walker"
 date: 2025-02-11
 excerpt: "Shipping is a habit you must cultivate to keep yourself honest; with others, but principally honest with *yourself*."
